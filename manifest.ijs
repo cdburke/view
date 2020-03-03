@@ -14,11 +14,10 @@ jzview.ijs
 view.css
 view.ijs
 view.js
-data
-js
+data/
+js/
 )
 
 RELEASE=: 'j901'
 
 FOLDER=: 'graphics/view'
-
